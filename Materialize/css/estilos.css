@@ -1,0 +1,38 @@
+body{
+  font-family: 'Amiko', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  background-color: #E4FFDA;
+  background-image: url('../img/fondo.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-position: 0cm 3cm;
+}
+.logo{
+  margin: 10px;
+  width: 180px;
+}
+.enlaces a{
+  margin-top: 20px;
+  width: 150px;
+}
+.slogan h1{
+  text-shadow: #616161 2px 2px 2px;
+}
+.social img{
+  margin: 10px;
+  width: 40px;
+}
+.galeria img{
+  width: 100%;
+  margin-bottom: 10px;
+}
+.etiquetas{
+  margin: 10px;
+}
+.imagen-publicacion{
+  border: 5px solid #fff;
+}
+.comentarios form{
+  background: orange;
+}
